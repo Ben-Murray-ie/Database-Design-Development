@@ -3,7 +3,7 @@
  
 ---
  
-In this project, we used PHPMyAdmin and MySQL to create a relational database model of a dentist's practice, with mock patients, appointements and procedures etc which
+In this project, we used PHPMyAdmin and MySQL to create a relational database model of a dentist's practice, with mock patients, appointments and procedures etc which
 can be accessed conviently via custom views. 
 
 ---
